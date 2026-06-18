@@ -255,7 +255,7 @@
 
 <script>
     // Paste your brand new public key inside the single quotes below:
-    const PAYSTACK_PUBLIC_KEY = pk_live_96a553401ff040dedd4cd39a82aa594eb5cf68bc'; 
+    const PAYSTACK_PUBLIC_KEY = 'pk_live_96a553401ff040dedd4cd39a82aa594eb5cf68bc'; 
 
     const todayVips = [
         { league: "LEBANON PREMIER LEAGUE-ROUND 17", time: "18:30", home: "Nejmeh SC", away: "AL Ahed", badge: "Direct Source ✅", dataValue: "1 - 3", price: 100, isPremium: false },
